@@ -1,0 +1,679 @@
+TOrientationIt
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt normal i386
+cCopyStringsFile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/en.lproj/InfoPlist.strings OrientationIt/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/Images.xcassets
+cProcessInfoPlistFile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/Info.plist /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Info.plist
+cGenerateDSYMFile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt
+cTouch /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052E8615A00000000000003B5
+t1390960986
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052E8616500000000000001A0
+t1390960997
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052E8616900000000005838D0
+t1390961001
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052E8616900000000005B82A0
+t1390961001
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052E861690000000000445870
+t1390961001
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052E861690000000000355050
+t1390961001
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052E8616A00000000002F6810
+t1390961002
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052E86169000000000004B000
+t1390961001
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052E8616B000000000088C680
+t1390961003
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052E8616C0000000000037620
+t1390961004
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052E8616D00000000004848F0
+t1390961005
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052E8616D00000000001290B0
+t1390961005
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052E861720000000001DB9910
+t1390961010
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052E8618000000000002B9F20
+t1390961024
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052E861890000000000002338
+t1390961033
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052E8618A000000000008D300
+t1390961034
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052E86189000000000038ACB0
+t1390961033
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c00000000530CE70F00000000000141F0
+t1393354511
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052E8618A0000000000013500
+t1390961034
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052E8618A0000000000033BA0
+t1390961034
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052E8618A000000000001CFB0
+t1390961034
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052E8618A000000000001B2B0
+t1390961034
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052E8618A00000000000632B0
+t1390961034
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052E8618A0000000000008880
+t1390961034
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052E8618A0000000000015080
+t1390961034
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052E8618A00000000000230E0
+t1390961034
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052E8618A000000000000E380
+t1390961034
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052E8618A0000000000087200
+t1390961034
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052E8618A00000000000171A0
+t1390961034
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052E8618A0000000000039C10
+t1390961034
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052E8618A000000000000B0B0
+t1390961034
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052E8618A0000000000167FE0
+t1390961034
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052E8618A00000000000106A0
+t1390961034
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052E8618A000000000001CE40
+t1390961034
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052E8618A0000000000071040
+t1390961034
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052E8618A0000000000067A10
+t1390961034
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052E8618A000000000001BAD0
+t1390961034
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052E8618A0000000000088BA0
+t1390961034
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c0000000052E861A5000000000000B870
+t1390961061
+s47216
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052E861A50000000000000AC9
+t1390961061
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052E861A50000000000005004
+t1390961061
+s20484
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.h
+c00000000531F9CF800000000000001C1
+t1394580728
+s449
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m
+c00000000531F9FC000000000000009F4
+t1394581440
+s2548
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/Images.xcassets
+c00000000531F9C460000000000000088
+t1394580550
+s136
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Info.plist
+c00000000531F9C8400000000000004C9
+t1394580612
+s1225
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Prefix.pch
+c00000000531F9C460000000000000158
+t1394580550
+s344
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.h
+c00000000531F9F8B0000000000000194
+t1394581387
+s404
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m
+c00000000531FA09B00000000000006A6
+t1394581659
+s1702
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/en.lproj/InfoPlist.strings
+c00000000531F9C46000000000000002D
+t1394580550
+s45
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m
+c00000000531F9C460000000000000151
+t1394580550
+s337
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.o
+t1394581441
+s70696
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/OrientationIt.LinkFileList
+c00000000531F9F570000000000000231
+t1394581335
+s561
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.o
+t1394581659
+s54456
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.o
+t1394581441
+s3708
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/assetcatalog_dependencies.txt
+t1394581337
+s507
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/assetcatalog_generated_info.plist
+t1394581337
+s585
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.pch
+t1394581336
+s108532
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app
+t1394581659
+s272
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM
+t1394581643
+s102
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/Info.plist
+t1394581337
+s1077
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt
+t1394581659
+s33716
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/PkgInfo
+t1394581337
+s8
+
+N/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/en.lproj/InfoPlist.strings
+t1394581336
+s42
+
+N/usr/lib/libSystem.B.dylib
+c000000005272C951000000000000E6D0
+t1383254353
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005272C95D0000000000012A00
+t1383254365
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005272C946000000000002E320
+t1383254342
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005272C9510000000000021860
+t1383254353
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005272C95D000000000001B620
+t1383254365
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005272C95D00000000000BD920
+t1383254365
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000530CE70F00000000000141F0
+t1393354511
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005272C95D000000000000A120
+t1383254365
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000530CE70F000000000001D550
+t1393354511
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005272C95D0000000000014EE0
+t1383254365
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005272C95F0000000000010380
+t1383254367
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005272C95F000000000000C4C0
+t1383254367
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005272C95D00000000000357A0
+t1383254365
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005272C95D000000000000C070
+t1383254365
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000530CE70F0000000000010630
+t1393354511
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530CE70F000000000001DF10
+t1393354511
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005272C9510000000000075B00
+t1383254353
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530299D0000000000007CCE0
+t1392679376
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005272C95100000000000766C0
+t1383254353
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005272C9510000000000021FA0
+t1383254353
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530CE70F000000000002D920
+t1393354511
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005272C95E000000000001E570
+t1383254366
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000530CE70F000000000000CC70
+t1393354511
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005272C959000000000000C3F0
+t1383254361
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005272C95E00000000000199F0
+t1383254366
+s104944
+
+CBuild AST from /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m
+r0
+
+CBuild AST from /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m
+r0
+
+CBuild AST from /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd289ac1bd8cfb841^3a59ae1bd8cfb841^---0#1#1#--18"Check dependencies36"21A7C49C-BAFD-4044-AFC6-3621F8079353-
+
+CCompileAssetCatalog /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/Images.xcassets
+s416274136.717175
+e416274137.913296
+r1
+xCompileAssetCatalog
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/LaunchImage-700-568h@2x.png
+o/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/LaunchImage-568h@2x.png
+o/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app OrientationIt/Images.xcassets124"CompileAssetCatalog build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app OrientationIt/Images.xcassetsddb6b7d8d6cfb841^3acee9d9d6cfb841^-535"/* com.apple.actool.compilation-results *//Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/LaunchImage-700-568h@2x.png/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/LaunchImage-568h@2x.png/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@88"file:///Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/Images.xcassets/0000000000000000^1326"CompileAssetCatalog build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app OrientationIt/Images.xcassets    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 4.3 --target-device iphone --compress-pngs --compile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/Images.xcassets36"FA17CF68-190F-4F77-A430-53E19FA20FCA-
+b84B2DDDF-0DF2-4886-AE52-A92908C7A574
+
+CCompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416274241.510959
+e416274242.001164
+r1
+xCompileC
+xbuild/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.o
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.h
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m240"CompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.o OrientationIt/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerea058341d7cfb841^ad500042d7cfb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m0000000000000000^4232"CompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.o OrientationIt/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator -include /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.dia -c /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.m -o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.o36"AB52A66E-B9DA-486D-A69F-C43570E54C9F-
+bC015D849-C18E-4DEB-AA20-86E1183D460F
+
+CCompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416274459.676428
+e416274459.740830
+r1
+xCompileC
+xbuild/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.o
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m254"CompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.o OrientationIt/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1041ad1bd8cfb841^00a9bd1bd8cfb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m0000000000000000^4274"CompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.o OrientationIt/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator -include /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.dia -c /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.m -o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.o36"3A7CCD20-D034-4741-8BD5-30040A57F621-
+bD8B615F6-C820-4782-A117-831084E552A3
+
+CCompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416274241.511171
+e416274241.998022
+r1
+xCompileC
+xbuild/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.o
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/AppDelegate.h
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m226"CompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.o OrientationIt/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e068341d7cfb841^b681ff41d7cfb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m0000000000000000^4190"CompileC build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.o OrientationIt/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator -include /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.dia -c /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/main.m -o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.o36"B8533B0F-9654-4DDC-B8DC-A4233347A460-
+bC015D849-C18E-4DEB-AA20-86E1183D460F
+
+CCopyStringsFile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/en.lproj/InfoPlist.strings OrientationIt/en.lproj/InfoPlist.strings
+s416274136.716576
+e416274136.720013
+r1
+xCopyStringsFile
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/en.lproj/InfoPlist.strings
+xOrientationIt/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy OrientationIt/en.lproj/InfoPlist.strings158"CopyStringsFile build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/en.lproj/InfoPlist.strings OrientationIt/en.lproj/InfoPlist.strings9e96b7d8d6cfb841^4c53b8d8d6cfb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/en.lproj/InfoPlist.strings0000000000000000^681"CopyStringsFile build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/en.lproj/InfoPlist.strings OrientationIt/en.lproj/InfoPlist.strings    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/en.lproj -- OrientationIt/en.lproj/InfoPlist.strings36"9B7F0865-A027-40D9-A205-693FA05F76D8-
+b84B2DDDF-0DF2-4886-AE52-A92908C7A574
+
+CGenerateDSYMFile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt
+s416274459.781894
+e416274459.803296
+r1
+xGenerateDSYMFile
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Generate /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM185"GenerateDSYMFile build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt8b35c81bd8cfb841^0da6cd1bd8cfb841^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM/0000000000000000^813"GenerateDSYMFile build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt -o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app.dSYM36"A1F67B7B-B3BD-4495-B907-075A4CD37E01-
+bD8B615F6-C820-4782-A117-831084E552A3
+
+CLd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt normal i386
+s416274459.742222
+e416274459.780189
+r1
+xLd
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt
+xnormal
+xi386
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/OrientationIt.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/AppDelegate.o
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/main.o
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/RootViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt103"Ld build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt normal i3864012be1bd8cfb841^5ebcc71bd8cfb841^---0#0#1#--1630"Ld build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt normal i386    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator -F/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator -filelist /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/OrientationIt.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.3 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/Objects-normal/i386/OrientationIt_dependency_info.dat -o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/OrientationIt36"4E0A0263-EC19-4AA0-B65B-8A5590DC5512-
+bD8B615F6-C820-4782-A117-831084E552A3
+
+CProcessInfoPlistFile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/Info.plist /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Info.plist
+s416274137.913969
+e416274137.916796
+r1
+xProcessInfoPlistFile
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/Info.plist
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Process /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Info.plist145"ProcessInfoPlistFile build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/Info.plist OrientationIt/OrientationIt-Info.plistfe0dead9d6cfb841^9ab3ead9d6cfb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Info.plist0000000000000000^1076"ProcessInfoPlistFile build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/Info.plist OrientationIt/OrientationIt-Info.plist    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Info.plist -genpkginfo /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/assetcatalog_generated_info.plist -o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app/Info.plist36"A5752EF9-EB12-49B6-9013-796DC7FD143B-
+b84B2DDDF-0DF2-4886-AE52-A92908C7A574
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-cvgpdaobggblvlaiprkhznbimkno/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416274135.131256
+e416274136.292953
+r1
+xProcessPCH
+x/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.pch
+xOrientationIt/OrientationIt-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile OrientationIt/OrientationIt-Prefix.pch255"ProcessPCH build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler95b822d7d6cfb841^21014bd8d6cfb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Prefix.pch0000000000000000^4073"ProcessPCH build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-generated-files.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-own-target-headers.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/OrientationIt-project-headers.hmap -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/DerivedSources/i386 -I/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/OrientationIt.build/Debug-iphonesimulator/OrientationIt.build/DerivedSources -F/Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.dia -MMD -MT dependencies -MF /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.d -c /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/OrientationIt/OrientationIt-Prefix.pch -o /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-fdqmthaehdgfgkdfexbfixzqnxal/OrientationIt-Prefix.pch.pch36"F5913BBF-DF2E-4B40-ACF0-FC8C4CED02DA-
+b84B2DDDF-0DF2-4886-AE52-A92908C7A574
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Intermediates/PrecompiledHeaders/OrientationIt-Prefix-gziarvwwdzkgtjdzuqsuhthcbket/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Index/PrecompiledHeaders/OrientationIt-Prefix-gcuukqndpuflbnektazlpjjzspum_ast/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Index/PrecompiledHeaders/OrientationIt-Prefix-gzprdoewtgloaxhijlfzgrmgsbaj_ast/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Index/PrecompiledHeaders/OrientationIt-Prefix-gzvtyyqtpptyfyhjfhbazxpwqlcr_ast/OrientationIt-Prefix.pch.pch OrientationIt/OrientationIt-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/yoonlee/Desktop/Yoon/Projects/OrientationIt/build/OrientationIt/Build/Products/Debug-iphonesimulator/OrientationIt.app
+r0
+
